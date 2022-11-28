@@ -1,0 +1,7 @@
+C:\Users\DAVID\source\repos\PruebaEduardo\PruebaEduardo\bin\Debug\PruebaEduardo.exe.config
+C:\Users\DAVID\source\repos\PruebaEduardo\PruebaEduardo\bin\Debug\PruebaEduardo.exe
+C:\Users\DAVID\source\repos\PruebaEduardo\PruebaEduardo\bin\Debug\PruebaEduardo.pdb
+C:\Users\DAVID\source\repos\PruebaEduardo\PruebaEduardo\obj\Debug\PruebaEduardo.csprojAssemblyReference.cache
+C:\Users\DAVID\source\repos\PruebaEduardo\PruebaEduardo\obj\Debug\PruebaEduardo.csproj.CoreCompileInputs.cache
+C:\Users\DAVID\source\repos\PruebaEduardo\PruebaEduardo\obj\Debug\PruebaEduardo.exe
+C:\Users\DAVID\source\repos\PruebaEduardo\PruebaEduardo\obj\Debug\PruebaEduardo.pdb
